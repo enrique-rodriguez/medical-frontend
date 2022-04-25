@@ -31,17 +31,6 @@
     padding: 30px;
     border-radius: 10px;
   }
-  .member .pic {
-    overflow: hidden;
-    width: 180px;
-    border-radius: 50%;
-  }
-  .member .pic img {
-    transition: ease-in-out 0.3s;
-  }
-  .member:hover img {
-    transform: scale(1.1);
-  }
   .member .member-info {
     padding-left: 30px;
   }
@@ -67,36 +56,5 @@
     background: #b2c8dd;
     bottom: 0;
     left: 0;
-  }
-  .member p {
-    margin: 10px 0 0 0;
-    font-size: 14px;
-  }
-  .member .social {
-    margin-top: 12px;
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-  }
-  .member .social a {
-    transition: ease-in-out 0.3s;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 50px;
-    width: 32px;
-    height: 32px;
-    background: #a0bcd5;
-  }
-  .member .social a i {
-    color: #fff;
-    font-size: 16px;
-    margin: 0 2px;
-  }
-  .member .social a:hover {
-    background: #1977cc;
-  }
-  .member .social a + a {
-    margin-left: 8px;
   }
 </style>

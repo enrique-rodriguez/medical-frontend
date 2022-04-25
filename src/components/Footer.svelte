@@ -21,23 +21,23 @@
           <ul>
             <li>
               <i class="bx bx-chevron-right" />
-              <a href="#">Home</a>
+              <a href="#hello">Home</a>
             </li>
             <li>
               <i class="bx bx-chevron-right" />
-              <a href="#">About us</a>
+              <a href="#hello">About us</a>
             </li>
             <li>
               <i class="bx bx-chevron-right" />
-              <a href="#">Services</a>
+              <a href="#hello">Services</a>
             </li>
             <li>
               <i class="bx bx-chevron-right" />
-              <a href="#">Terms of service</a>
+              <a href="#hello">Terms of service</a>
             </li>
             <li>
               <i class="bx bx-chevron-right" />
-              <a href="#">Privacy policy</a>
+              <a href="#hello">Privacy policy</a>
             </li>
           </ul>
         </div>
@@ -47,23 +47,23 @@
           <ul>
             <li>
               <i class="bx bx-chevron-right" />
-              <a href="#">Web Design</a>
+              <a href="#hello">Web Design</a>
             </li>
             <li>
               <i class="bx bx-chevron-right" />
-              <a href="#">Web Development</a>
+              <a href="#hello">Web Development</a>
             </li>
             <li>
               <i class="bx bx-chevron-right" />
-              <a href="#">Product Management</a>
+              <a href="#hello">Product Management</a>
             </li>
             <li>
               <i class="bx bx-chevron-right" />
-              <a href="#">Marketing</a>
+              <a href="#hello">Marketing</a>
             </li>
             <li>
               <i class="bx bx-chevron-right" />
-              <a href="#">Graphic Design</a>
+              <a href="#hello">Graphic Design</a>
             </li>
           </ul>
         </div>
@@ -97,11 +97,11 @@
       </div>
     </div>
     <div class="social-links text-center text-md-right pt-3 pt-md-0">
-      <a href="#" class="twitter"><i class="bx bxl-twitter" /></a>
-      <a href="#" class="facebook"><i class="bx bxl-facebook" /></a>
-      <a href="#" class="instagram"><i class="bx bxl-instagram" /></a>
-      <a href="#" class="google-plus"><i class="bx bxl-skype" /></a>
-      <a href="#" class="linkedin"><i class="bx bxl-linkedin" /></a>
+      <a href="#hello" class="twitter"><i class="bx bxl-twitter" /></a>
+      <a href="#hello" class="facebook"><i class="bx bxl-facebook" /></a>
+      <a href="#hello" class="instagram"><i class="bx bxl-instagram" /></a>
+      <a href="#hello" class="google-plus"><i class="bx bxl-skype" /></a>
+      <a href="#hello" class="linkedin"><i class="bx bxl-linkedin" /></a>
     </div>
   </div>
 </footer>

@@ -19,6 +19,7 @@
           <i class="bx bx-help-circle icon-help" />
           <a
             data-bs-toggle="collapse"
+            href="#hello"
             class="collapse"
             data-bs-target="#faq-list-1"
             >Non consectetur a erat nam at lectus urna duis? <i
@@ -38,6 +39,7 @@
           <i class="bx bx-help-circle icon-help" />
           <a
             data-bs-toggle="collapse"
+            href="#hello"
             data-bs-target="#faq-list-2"
             class="collapsed"
             >Feugiat scelerisque varius morbi enim nunc? <i
@@ -59,6 +61,7 @@
           <i class="bx bx-help-circle icon-help" />
           <a
             data-bs-toggle="collapse"
+            href="#hello"
             data-bs-target="#faq-list-3"
             class="collapsed"
             >Dolor sit amet consectetur adipiscing elit? <i
@@ -80,6 +83,7 @@
           <i class="bx bx-help-circle icon-help" />
           <a
             data-bs-toggle="collapse"
+            href="#hello"
             data-bs-target="#faq-list-4"
             class="collapsed"
             >Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i
@@ -100,6 +104,7 @@
           <i class="bx bx-help-circle icon-help" />
           <a
             data-bs-toggle="collapse"
+            href="#hello"
             data-bs-target="#faq-list-5"
             class="collapsed"
             >Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis

@@ -15,7 +15,7 @@
             corporis.
           </p>
           <div class="text-center">
-            <a href="#" class="more-btn"
+            <a href="#hello" class="more-btn"
               >Learn More <i class="bx bx-chevron-right" /></a
             >
           </div>

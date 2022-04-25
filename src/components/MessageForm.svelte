@@ -69,9 +69,7 @@
     padding: 15px;
     font-weight: 600;
   }
-  .message-form .error-message br + br {
-    margin-top: 25px;
-  }
+
   .message-form .sent-message {
     display: none;
     color: #fff;

@@ -25,7 +25,7 @@
 
         <div class="icon-box">
           <div class="icon"><i class="bx bx-fingerprint" /></div>
-          <h4 class="title"><a href="">Lorem Ipsum</a></h4>
+          <h4 class="title"><a href="#hello">Lorem Ipsum</a></h4>
           <p class="description">
             Voluptatum deleniti atque corrupti quos dolores et quas molestias
             excepturi sint occaecati cupiditate non provident
@@ -34,7 +34,7 @@
 
         <div class="icon-box">
           <div class="icon"><i class="bx bx-gift" /></div>
-          <h4 class="title"><a href="">Nemo Enim</a></h4>
+          <h4 class="title"><a href="#hello">Nemo Enim</a></h4>
           <p class="description">
             At vero eos et accusamus et iusto odio dignissimos ducimus qui
             blanditiis praesentium voluptatum deleniti atque
@@ -43,7 +43,7 @@
 
         <div class="icon-box">
           <div class="icon"><i class="bx bx-atom" /></div>
-          <h4 class="title"><a href="">Dine Pad</a></h4>
+          <h4 class="title"><a href="#hello">Dine Pad</a></h4>
           <p class="description">
             Explicabo est voluptatum asperiores consequatur magnam. Et veritatis
             odit. Sunt aut deserunt minus aut eligendi omnis

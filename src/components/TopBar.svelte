@@ -10,10 +10,10 @@
             <i class="bi bi-phone" /> +1 5589 55488 55
         </div>
         <div class="d-none d-lg-flex social-links align-items-center">
-            <a href="#" class="twitter"><i class="bi bi-twitter" /></a>
-            <a href="#" class="facebook"><i class="bi bi-facebook" /></a>
-            <a href="#" class="instagram"><i class="bi bi-instagram" /></a>
-            <a href="#" class="linkedin"><i class="bi bi-linkedin" /></a>
+            <a href="#hello" class="twitter"><i class="bi bi-twitter" /></a>
+            <a href="#hello" class="facebook"><i class="bi bi-facebook" /></a>
+            <a href="#hello" class="instagram"><i class="bi bi-instagram" /></a>
+            <a href="#hello" class="linkedin"><i class="bi bi-linkedin" /></a>
         </div>
     </div>
 </div>
@@ -26,9 +26,7 @@
         transition: all 0.5s;
         z-index: 996;
     }
-    #topbar.topbar-scrolled {
-        top: -40px;
-    }
+
     #topbar .contact-info a {
         line-height: 1;
         color: #444444;
