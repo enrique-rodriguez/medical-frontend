@@ -6,7 +6,7 @@ export async function post(url: string, body: any) {
         method: "POST",
         body: body,
         headers: {
-            'X-CSRFToken': csrfToken
+            'X-CSRF-Token': csrfToken
         },
     });
 
