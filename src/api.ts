@@ -1,11 +1,16 @@
 
-export async function post(url: string, body: any) {
+export async function post(url: string, formData: HTMLFormElement) {
+    let body = {};
+    
+    formData.forEach((value: string, key: string) => body[key] = value);
+
     const csrfToken = await getCsrfToken();
 
     const response = await fetch(url, {
         method: "POST",
-        body: body,
+        body: JSON.stringify(body),
         headers: {
+            'Content-Type': 'application/json',
             'X-CSRF-Token': csrfToken
         },
     });
